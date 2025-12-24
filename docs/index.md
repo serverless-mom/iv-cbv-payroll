@@ -1,4 +1,4 @@
 This is a test index markdown
 
-[Do links work?](iv-cbv-payroll/code-reviews.html)
-[Checking another way](/ibv-cbv-payroll/index.md)
+[Do links work?](code-reviews.html)
+[Checking another way](/ibv-cbv-payroll/releases.html)
