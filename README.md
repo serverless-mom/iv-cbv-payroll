@@ -39,9 +39,9 @@ Most developers on the team code using macOS, so we recommend that platform if p
    * `echo 'if which rbenv >/dev/null 2>/dev/null; then eval "$(rbenv init -)"; fi' >> ~/.zshrc`
    * Close & re-open your terminal
 
-**The following commands must be run in the app directory**
+**The following commands must be run in the `/app` directory**
 1. Install Ruby: `rbenv install`
-1. Install NodeJS `nodenv install`
+1. Install NodeJS `nodenv install` (you may need to restart your terminal after these steps)
 1. Install Ruby dependencies: `bundle install`
 1. Install JS dependencies
    * `nodenv rehash`
