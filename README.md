@@ -3,9 +3,9 @@ Income Verification: Consent-Based Verification (Payroll)
 
 # About the Project
 
-Consent-Based Verification (CBV) is a prototype that allows benefit applicants to verify their income directly using payroll providers. It is currently being piloted for testing and validation purposes.
+Income Verification as a Service (IVaaS) is a portal that allows benefit applicants to verify income and volunteer hours directly using payroll providers. It is currently being piloted in multiple states for validation.
 
-# Development and Software Delivery Lifecycle
+# Try it for yourself
 
 If you're new to Rails, see the [Getting Started with Rails](https://guides.rubyonrails.org/getting_started.html)
 guide for an introduction to the framework.
